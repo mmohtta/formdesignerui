@@ -4,6 +4,8 @@
   "repository": {
     "type": "git"
   },
+  "author": "Madhav Mohtta",
+  "description": "Form designer UI",
   "license": "MIT",
   "scripts": {
     "start": "webpack-dev-server --open"
